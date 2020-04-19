@@ -9,5 +9,6 @@ namespace AppTrainProj
 
         }
         public string MyProperty { get; set; }
+        public string prop2 { get; set; }
     }
 }
