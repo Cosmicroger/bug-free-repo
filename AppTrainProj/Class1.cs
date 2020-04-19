@@ -8,5 +8,6 @@ namespace AppTrainProj
         {
 
         }
+        public string MyProperty { get; set; }
     }
 }
